@@ -1,0 +1,14 @@
+# compiled output
+*.out
+*.exe
+*.o
+
+# build directories
+build/
+bin/
+
+# VS Code settings
+.vscode/
+
+# Linux/macOS files
+.DS_Store
