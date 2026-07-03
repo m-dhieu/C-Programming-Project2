@@ -25,7 +25,7 @@ C-Programming-Project2/
 
 A menu-driven program that manages student records using structures, dynamic memory allocation, pointers, and function pointers. The program allows adding, displaying, sorting, and analyzing student performance using a custom analysis function.
 
-View [source code](./question1/strecord.c)
+View [source code](./question1/strecords.c)
 
 ---
 
@@ -47,7 +47,7 @@ View [source code](./question3/callbacks.c)
 
 ---
 
-## Key Concepts Demonstrated
+## Key Concepts
 
 - Dynamic memory allocation (`malloc`, `realloc`, `free`)
 - Structures and arrays of structures
